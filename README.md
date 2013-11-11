@@ -42,5 +42,3 @@ Rails console
 rails c
 ```
 
-
-
